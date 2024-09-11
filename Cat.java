@@ -1,5 +1,4 @@
 public class Cat
-  {
-    public String cat;
-
-  }
+{
+	public String cat;
+}
