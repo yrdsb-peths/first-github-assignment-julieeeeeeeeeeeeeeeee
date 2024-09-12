@@ -4,7 +4,7 @@ Do the following to Complete this assignment:
 
 1. Begin editing this file by clicking the 'pen' symbol above.
 
-2. Enter your First Name: Julie
+2. Enter your First Name: Julie Lau
 
 3. Enter your favourite animal: Cat
 
